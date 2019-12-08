@@ -1,0 +1,7 @@
+[package]
+name = "day1-rust"
+version = "0.1.0"
+authors = ["xeno <xeno.freenode@gmail.com>"]
+edition = "2018"
+
+[dependencies]
